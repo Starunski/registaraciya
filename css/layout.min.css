@@ -328,11 +328,11 @@ fieldset[disabled] .btn-theme {
 }
 @media (max-width: 480px) {
   .promo-block .promo-block-title {
-    font-size: 50px;
+    font-size: 42px;
   }
 }
 .promo-block .promo-block-text {
-  font-size: 25px;
+  font-size: 23px;
   color: #3c3659;
 }
 .promo-block .promo-block-divider {
